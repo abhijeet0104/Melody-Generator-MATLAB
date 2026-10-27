@@ -133,7 +133,7 @@ The project provides a foundation for further exploration of AI-driven music gen
 
 ## 👨‍💻 Author
 
-**Sahil Mahapure**
+**Abhijeet Sutar**
 Department: Automation & Robotics Engineering
 Institution: MES Wadia College of Engineering
 
